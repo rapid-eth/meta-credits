@@ -21,12 +21,9 @@ export default props => {
       {/* Right */}
 
       <Atom.Flex alignCenter>
-        <a href="https://github.com/kamescg">
-          <Atom.Span sx={{ fontSize: 1 }}>Built by Kames</Atom.Span>
+        <a href="https://github.com/rapid-eth">
+          <Atom.Span sx={{ fontSize: 1 }}>Built by RAPID</Atom.Span>
         </a>
-        <Atom.Span sx={{ ml: 1, fontSize: 1 }}>
-          <a href="https://consensys.net">at RAPID</a>
-        </Atom.Span>
       </Atom.Flex>
     </Atom.Flex>
   );
