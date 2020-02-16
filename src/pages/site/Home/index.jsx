@@ -29,11 +29,20 @@ const Showcase = props => {
         >
           <Atom.Flex center column>
             <Atom.Heading as="h1" mega>
-              MetaCredits
+              MetaCred
             </Atom.Heading>
             <Atom.Heading as="h4" md>
-              A Self-Sustaining Ethereum Transaction Payment Network
+              A Generalized MetaTransaction Funding Protocol & Self-Sustaining
+              Transaction Payment Network
             </Atom.Heading>
+            <Atom.Box sx={{ textAlign: "center" }}>
+            <Atom.Paragraph>
+              MetaCred is a product designed to allow developers and end users
+              with a 0 balance of any crypto currency to participate in the
+              budding Ethereum ecosystem - and to allow donators / investors to
+              know their money is going to a good cause.
+            </Atom.Paragraph>
+            </Atom.Box>
           </Atom.Flex>
         </Atom.Container>
       </Atom.Flex>

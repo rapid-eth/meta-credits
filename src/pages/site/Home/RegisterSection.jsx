@@ -9,14 +9,10 @@ const Component = props => {
         <Atom.Flex alignCenter>
           <Atom.Box sx={{ color: "white", flex: 1, p: 4 }}>
             <Atom.Heading sx={{ fontSize: [3, 3, 5] }}>
-              Validate Your Idea
+              Propose a Project
             </Atom.Heading>
             <Atom.Paragraph>
-              Mauris nec erat iaculis mi molestie pellentesque. In eu pretium
-              quam. Fusce pellentesque fringilla volutpat. Proin a hendrerit
-              libero, id aliquam nisl. Donec porttitor ligula lacus, eget
-              blandit elit pellentesque id. Suspendisse tincidunt nec leo vitae
-              dictum.
+              Submit your project to the MetaCred network for review and approval. If your project is approved, your dApp will have all of its associated activities funded via MetaTransactions, up to a limit designated by the amount of funding support your proposal receives.
             </Atom.Paragraph>
           </Atom.Box>
           <Atom.Box sx={{ color: "white", flex: 1, p: 4 }}>
